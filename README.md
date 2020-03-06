@@ -1,1 +1,7 @@
-# Reply_trainning
+![0](requirement/0.jpg)
+![1](requirement/1.jpg)
+![2](requirement/2.jpg)
+![3](requirement/3.jpg)
+![4](requirement/4.jpg)
+![5](requirement/5.jpg)
+![6](requirement/6.jpg)
